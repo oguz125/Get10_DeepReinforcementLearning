@@ -5,7 +5,6 @@ Created on Wed Aug 12 13:16:09 2020
 
 @author: apolat
 """
-#a
 
 import numpy as np
 
